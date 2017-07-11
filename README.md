@@ -15,7 +15,8 @@ You will need...
 - Theme Kit
 ------
 I assume node and npm are already installed.
-1. To install Slate globaly
-`npm i -g @shopify/slate`
-
-2. create project with slate CLI
+1. To install Slate globaly `npm i -g @shopify/slate`
+2. To create project with slate CLI `slate theme <project_name>`
+	this will make new directory with node_modules and src direstory which contains base files for shopify
+3. To set up config.yml
+4. To deploy theme `slate deploy`
