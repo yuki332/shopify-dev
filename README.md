@@ -3,7 +3,6 @@ This is learning purpose and learning objectives are:
 - to Understand basic structure of shopify files
 - to Set up local development environment and find out faster work flow
 - to get familiar with shopify development by using slate and theme kit
-----
 
 ### Environment
 - Slate

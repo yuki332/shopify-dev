@@ -1,19 +1,7 @@
 {
   "name": "shopify-dev",
-  "version": "1.0.0",
-  "description": "### Environment - slate - theme kit",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yuki332/shopify-dev.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yuki332/shopify-dev/issues"
-  },
-  "homepage": "https://github.com/yuki332/shopify-dev#readme"
+  "version": "0.0.1",
+  "devDependencies": {
+    "@shopify/slate-tools": "0.3.1"
+  }
 }
